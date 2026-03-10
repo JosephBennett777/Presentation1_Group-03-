@@ -11,3 +11,8 @@ lowers the barrier to entry for beginners, and opens the door to an exciting fut
 
 Youtube Video: https://youtu.be/fRpnQ8PY8c8
 
+Sources/
+https://aws.amazon.com/q/developer/
+https://deepmind.google/research/
+https://github.blog/
+https://replit.com/news
